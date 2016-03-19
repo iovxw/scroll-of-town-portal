@@ -1,0 +1,4 @@
+name: ScrollOfTownPortal
+main: scroll_of_town_portal.core
+depend: [cljminecraft]
+version: 1.0.0
