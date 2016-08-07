@@ -7,6 +7,5 @@
   :profiles {:provided
              {:dependencies
               [[org.bukkit/bukkit "1.9-R0.1-SNAPSHOT"]]}}
-  :dependencies [[org.clojure/clojure "1.8.0"]
-                 [org.clojure/data.json "0.2.6"]]
+  :dependencies [[org.clojure/clojure "1.8.0"]]
   :aot :all)
